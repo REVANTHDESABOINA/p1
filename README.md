@@ -1,6 +1,4 @@
 ## 🤖 HealthCare ChatBot
-Major -1 
-(4th year - 7th semester)
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. 
 
@@ -51,11 +49,7 @@ We have used Decision tree for our health care based chat bot.
 
 Decision Tree is a Supervised learning technique that can be used for both classification and Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.It usually mimic human thinking ability while making a decision, so it is easy to understand.
 
-
-## :suspect: Project Members
-
-- Anushka Bansal - 500067844 - R164218014
-- Shreya Sharma - 500068573 - R164218070
-- Silvi - 500069092 - R164218072
-- Ishika Agrawal - 500071154 - R164218097
+<img width="306" alt="Screenshot 2025-06-19 at 10 56 51 PM" src="https://github.com/user-attachments/assets/e879e7c2-4443-4a1a-8f75-a66322a9b8c0" />
+<img width="1440" alt="Screenshot 2025-06-19 at 10 56 19 PM" src="https://github.com/user-attachments/assets/c00486b1-07be-436d-af94-fb1a8231a3fd" />
+<img width="1001" alt="Screenshot 2025-06-19 at 10 58 42 PM" src="https://github.com/user-attachments/assets/c4a79374-0b6f-447d-af63-1717a5fae99e" />
 
